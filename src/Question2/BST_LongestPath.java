@@ -38,13 +38,13 @@ public class BST_LongestPath
 	
 	public static void main(String args[])
 	{
-//					100
+//			            100
 //				   /   \
 //				  20   130
 //				 / \   /  \
 //				10 50 110 140
-//			   /
-//			  5
+//			       /
+//			      5
 		Node root=newNode(100);
 		root.left=newNode(20);
 		root.right=newNode(130);
